@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/testingforpny/static/css/main.805f783e.css",
+    "main.js": "/testingforpny/static/js/main.1b85a541.js",
+    "static/media/dicee_logo.png": "/testingforpny/static/media/dicee_logo.81e50912a96177e8ed13.png",
+    "index.html": "/testingforpny/index.html",
+    "main.805f783e.css.map": "/testingforpny/static/css/main.805f783e.css.map",
+    "main.1b85a541.js.map": "/testingforpny/static/js/main.1b85a541.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.805f783e.css",
+    "static/js/main.1b85a541.js"
+  ]
+}
